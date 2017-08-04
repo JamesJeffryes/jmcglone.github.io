@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Periodic web service testing with nose and cron”
+title:  Periodic web service testing with nose and cron
 date:   2017-04-10
 categories: nosetest, cron, api testing
 ---
