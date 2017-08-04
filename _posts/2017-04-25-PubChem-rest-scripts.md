@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  lightweight shell script to annotate molfile output 
+title:  Lightweight shell script to annotate molfile output 
 date:   2017-04-25
 categories: PubChem, REST APIs, shell
 ---
